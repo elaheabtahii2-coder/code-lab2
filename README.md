@@ -1,4 +1,4 @@
-# code-lab2
+# code-lab
 . Scalable blockchain project.
 main.py
 `python
